@@ -6,4 +6,4 @@
 	url = https://github.com/MatthewTurk/reveal-paperjs
 [submodule "reveal.js-copycode"]
 	path = reveal.js-copycode
-	url = git@github.com:Martinomagnifico/reveal.js-copycode
+	url = https://github.com/Martinomagnifico/reveal.js-copycode.git
